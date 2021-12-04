@@ -1,3 +1,4 @@
 neural_networks/fully-connected-perceptron/MichalDanielDobrzanski-neural-networks-and-deep-learning
 .ipynb_checkpoints
 data/
+linear_regression/*.csv
